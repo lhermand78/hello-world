@@ -1,2 +1,2 @@
 # hello-world
-My first project to learn git and github
+A project to learn more about git and github.
